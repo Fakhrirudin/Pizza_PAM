@@ -1,4 +1,4 @@
-# Prak-PAM-PizzaRestaurant
+# Pizza
 - Nama  : Muhammad Fakhri Fakhruddin
 - NIM   : 1217050093
 - Kelas : G
